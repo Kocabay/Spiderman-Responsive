@@ -10,4 +10,4 @@ Site Örneği
 https://spiderman-ornek.netlify.app/
 
 
-<img src="[gorsel-link](https://github.com/Kocabay/Spiderman-Responsive/blob/main/sp%C4%B1derman.gif)" width="auto">
+<img src="(https://github.com/Kocabay/Spiderman-Responsive/blob/main/sp%C4%B1derman.gif)" width="auto">
